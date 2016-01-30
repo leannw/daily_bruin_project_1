@@ -1,0 +1,10 @@
+.top-bar{
+	background-color: grey;
+}
+
+#cover{
+	background-size: cover;
+	width: 100% !important;
+}
+
+
