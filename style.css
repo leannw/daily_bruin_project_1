@@ -1,10 +1,20 @@
 .top-bar{
 	background-color: grey;
+	word-spacing: 12;
 }
+
 
 #cover{
 	background-size: cover;
 	width: 100% !important;
 }
 
+h1{
+	color: blue;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	font-weight: bolder;
+
+
+}
 
